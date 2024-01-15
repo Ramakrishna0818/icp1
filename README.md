@@ -1,1 +1,1 @@
-# icp1
+NAME:RamaKrishna reddy Bhanuri ID:700742956 VIDEO LINK:https://drive.google.com/file/d/1QoEdCKC8gU8fsh7B1_H7DoR3Qu6D4rP2/view?usp=drive_link CODE FILE:Neuralnetworks-Assignment1 DOCUMENT:NN-ASSIGNMENT1
